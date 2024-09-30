@@ -7,4 +7,4 @@ Astroapp sample app.
 ![alt text](https://github.com/Princeku94/astroapp/blob/main/Screenshot_1727709987.png)
 ![alt text](https://github.com/Princeku94/astroapp/blob/main/Screenshot_1727709992.png)
 
-![](https://github.com/Princeku94/astroapp/blob/main/astrogif.gif)
+![Alt Text]((https://github.com/Princeku94/astroapp/blob/main/astrogif.gif)
